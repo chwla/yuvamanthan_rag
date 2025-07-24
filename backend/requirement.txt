@@ -1,0 +1,10 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+sentence-transformers==2.2.2
+PyMuPDF==1.23.8
+chromadb==0.4.18
+numpy>=1.26.0
+pydantic==2.5.0
+python-dotenv==1.0.0
+typing-extensions==4.8.0
